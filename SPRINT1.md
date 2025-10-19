@@ -1,3 +1,6 @@
+# DONE + DELETE BUTTON IN WORKSPACE
+
+
 # Sprint 1 — Auth & Setup
 
 **Goal:**  
